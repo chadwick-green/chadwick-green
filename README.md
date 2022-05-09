@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chadwick-green
-- 👀 I’m interested in becoming a front-end developer with an emphasis on UI/UX design.
+- 👀 I’m interested in becoming a front-end developer with an emphasis on elegant, functional UI/UX design.
 - 🌱 I’m currently re-learning HTML, CSS, and JS after nearly two decades away from development.
 
 <!---
